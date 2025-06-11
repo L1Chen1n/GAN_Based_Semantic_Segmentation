@@ -1,6 +1,5 @@
-# COMP9444-project
+# Machine Learning Research
 Title: GAN-Based Semantic Segmentation Enhancement for Complex Scenes in ADE20K
-                                                                          -----COMP9444 24 T3 Project
 
 
 This project aims to enhance the accuracy and detail of semantic segmentation for complex scenes in the ADE20K
